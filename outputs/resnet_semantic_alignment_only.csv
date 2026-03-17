@@ -1,0 +1,6 @@
+image_name,thesis_class,true_scene_label,vgg_predicted_label,vgg_confidence,vgg_aligned,resnet_predicted_label,resnet_confidence,resnet_aligned
+Places365_val_00000921.jpg,building,tower,valley,0.3362,False,dam,0.191,True
+Places365_val_00000588.jpg,forest,forest-broadleaf,lakeside,0.1412,False,snowmobile,0.1786,True
+Places365_val_00002435.jpg,forest,forest-broadleaf,worm fence,0.1018,False,worm fence,0.2143,True
+Places365_val_00004131.jpg,street,highway,street sign,0.3965,False,street sign,0.9197,True
+Places365_val_00004289.jpg,street,street,library,0.1571,False,streetcar,0.2129,True
